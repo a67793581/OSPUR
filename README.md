@@ -1,5 +1,5 @@
 # OSPUR
 Unethical Records of Open Source Projects
 
-| **Open Source Projects** | **Unethical Records** |
+| Open Source Projects | Unethical Records |
 | xx | xx |
